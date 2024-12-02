@@ -11,6 +11,6 @@ Quick stats from real-time data using yfinance.
 Sector-Specific Pages:
 
 Tailored economic indicators for each sector.
-Sector index tracking with Alpaca API.
+Sector index tracking with Y-Finance.
 Explanations of indicator impacts and sector summaries.
 MarketBridge empowers users with an accessible, insightful view of market dynamics, bridging the gap between data and understanding.
